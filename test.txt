@@ -1,0 +1,82 @@
+﻿html css  基础网页布局
+
+css hack  兼容处理
+css 重置样式表 reset.css   normalize.css
+熟悉并理解web标准  w3c规范
+css 命名规范
+
+html5 媒体查询  响应式布局
+%布局
+rem 字体响应式布局
+
+css3 多图背景  (背景裁切)  圆角 阴影  九宫格边框图片
+渐变  2D  3D  过渡 动画  网络字体  多栏排版
+写圆角边  就是 丢人
+
+html5  
+新标签 兼容性处理
+媒体查询 IE8以下兼容性处理
+
+语义化标签
+智能表单
+视/音频 操作 
+地理位置
+本地存储
+离线应用
+web worker
+canvas  简单运动  碰撞检测  面向对象编程
+svg
+拖拽  文件读取
+
+JS  
+熟练应用DOM操作 BOM操作 
+熟练掌握 内置对象方法
+正则表达式  验证
+页面特效    轮播 瀑布 手风琴 下拉加载更多
+ajax 异步请求json/xml  *RESTful 规范* *接口数据规范* 
+JSONP 跨域
+jquery  zepto  
+
+
+算法  冒泡排序  快速排序
+设计模式---  单例模式 简单工厂模式 观察者模式 如果不懂不会 不要写这个
+
+angularjs  双向绑定 模块 控制器 服务  指令  过滤   路由 动画  angularjsUI
+APP打包  cordova线下打包  hbuilder线上打包
+
+微信  js-sdk 网页开发
+
+插件  
+前端 ui 框架  bootstrap  frozenui blendui weui
+swiper.js  animate.css
+
+能使用git版本控制做团队协作
+关注github   能编写markdown笔记文档
+
+使用npm  bower安装依赖模块
+
+php  文件  模板引擎
+session cookie
+mysql  增删改查 数据备份 导入导出  (关联查询  where group by order by limit)
+sql注入
+XSS攻击防范
+
+
+phpcms 二次开发
+了解 前端mvc mvvp  mv*  后端mvc  前端渲染 后端渲染
+
+PS  PS切图 精灵图
+axure 原型图设计
+对UED 有一定认识
+node 
+ 
+ 
+ css 预处理  less  sass
+ Chrome开发者工具、FireBug、IETester等调试工具
+ 
+了解 ES6
+
+wordpress 个人博客
+
+Linux简单的命令
+uml？
